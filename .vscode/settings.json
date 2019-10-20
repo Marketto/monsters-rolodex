@@ -1,0 +1,7 @@
+{
+    "jshint.enable": false,
+    "jslint.enable": false,
+    "editor.fontFamily": "'Operator Mono Lig', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16
+}
